@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="name">نام : </string>
+    <string name="lastName">نام خانوادگی : </string>
+    <string name="gender">جنسیت : </string>
+    <string name="age">سن : </string>
+    <string name="number">شماره : </string>
+</resources>
